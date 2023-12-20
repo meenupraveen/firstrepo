@@ -1,0 +1,6 @@
+git add filename( this command is for adding the file) 
+git commit -m "message of commit" filename
+git push remote -u origin branchname
+git pull remote -u origin branchname
+git branch newbranchname (to add the new branch)
+git checkout branchname (to change the branch)
